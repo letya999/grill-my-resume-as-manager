@@ -1,20 +1,18 @@
-# Dependencies
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# Gemini CLI Temp
-.gemini/
-
-# Package artifacts
-*.skill
-!ats-resume-diagnostic.skill
-
-# Serena
 .serena/
+__pycache__/
+*.pyc
+.env
+.DS_Store
 
+# Local analysis / chat exports (may contain personal data)
+plans/
+evals/workspace/
+evals/files/
+evals/chat_resume_urls.txt
+
+# Never commit source PDFs or Telegram dumps
+*.pdf
+!docs/**/*.pdf
+
+# Local env
+.venv/

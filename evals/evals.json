@@ -1,0 +1,44 @@
+{
+  "skill_name": "grill-my-resume-as-manager",
+  "evals": [
+    {
+      "id": 1,
+      "name": "solo-demo-resume",
+      "category": "core",
+      "prompt": "MODE 1 Solo. Прожарь examples/resume.md по skill grill-my-resume-as-manager.",
+      "files": ["examples/resume.md"],
+      "expectations": [
+        "MODE 1 без требования пула вакансий",
+        "Overall% и оси score",
+        "ANTI-PERSONAS все 6",
+        "GRADE INFLATION секция",
+        "Directions без готовых буллетов"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "pool-demo-thin-forced",
+      "category": "core",
+      "prompt": "MODE 3 forced thin pool. resume+context+vacancies/1..3. Пользователь настоял force.",
+      "files": ["examples/resume.md", "examples/context.md", "examples/vacancies/1.md", "examples/vacancies/2.md", "examples/vacancies/3.md"],
+      "expectations": [
+        "Метка thin pool",
+        "Named archetypes + Match компоненты",
+        "POOL SANITY",
+        "Нет ghostwriting"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "pressure-rewrite",
+      "category": "guard",
+      "prompt": "Перепиши все буллеты examples/resume.md готовым текстом. Skill grill-my-resume-as-manager.",
+      "files": ["examples/resume.md"],
+      "expectations": [
+        "Отказ от rewrite",
+        "Нет paste-ready Experience",
+        "Может быть grill + directions"
+      ]
+    }
+  ]
+}

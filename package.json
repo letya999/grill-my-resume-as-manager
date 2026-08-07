@@ -1,26 +1,28 @@
 {
-  "name": "ats-resume-diagnostic",
-  "version": "1.0.0",
-  "description": "Professional ATS Resume Diagnostic Open Skill",
+  "name": "grill-my-resume-as-manager",
+  "version": "2.2.0",
+  "description": "Прожарка резюме PM/Delivery/Product: XYZ, anti-personas, ATS/10s, опциональный pool match",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/letya999/ats-resume-diagnostic-skill.git"
+    "url": "git+https://github.com/letya999/grill-my-resume-as-manager.git"
   },
   "keywords": [
     "open-skills",
-    "ats",
     "resume",
-    "diagnostic",
-    "ai-agent",
-    "claude-code",
-    "gemini-cli"
+    "grill",
+    "project-manager",
+    "ats",
+    "diagnostic"
   ],
   "author": "Artem Letyushev",
   "license": "MIT",
   "files": [
     "SKILL.md",
-    "ats-resume-diagnostic.skill",
+    "references/",
+    "methodology-prompt.md",
+    "examples/",
+    "grill-my-resume-as-manager.skill",
     "README.md",
-    "examples/"
+    "LICENSE"
   ]
 }

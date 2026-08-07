@@ -1,0 +1,158 @@
+Кандидат P19  
+Senior
+ 
+Project
+ 
+Manager
+ t.me/Кандидат P19 |  candidate@example.invalid  |  +7  (747)  355-7948  
+https://example.invalid/link  
+Project  Manager  with  over  6  years  of  experience  in  outsourcing,  FinTech,  telecommunications,  and  major  
+internal
+ 
+products.
+ 
+I
+ 
+specialize
+ 
+in
+ 
+mobile
+ 
+development
+ 
+and
+ 
+microservices,
+ 
+having
+ 
+managed
+ 
+up
+ 
+to
+ 
+6
+ 
+cross-functional
+ 
+teams
+ 
+at
+ 
+once.
+ 
+ 
+I’ve  worked  with  technologies  such  as  Node.js,  Python,  Kotlin,  Java,  .NET,  Swift,  Flutter,  React.js,  and  
+Angular.js.
+ 
+ 
+I  focus  on  full-cycle  project  management,  process  development,  and  team  optimization.  I  coordinate  team  
+interactions,
+ 
+manage
+ 
+risks,
+ 
+and
+ 
+ensure
+ 
+business
+ 
+objectives
+ 
+are
+ 
+met
+ 
+with
+ 
+timely
+ 
+releases.
+ 
+ 
+My  superpower?  Resolving  crises  and  pulling  projects  out  of  production  hell.   
+Опыт  работы  (N лет)    Lead  Project  Manager,  NDA  |  
+06/2023
+ 
+–
+  
+по
+ 
+настоящее
+ 
+время
+ International  holding  company  in  the  Fintech  sector.  Responsible  for  development  and  release  projects  on  local  markets  of  mobile  apps  and  internal  projects  to  improve  the  it-landscape.  Development  department  of  5  teams  (50  people):  Android,  iOS,  Backend  +  DevOps,  QA,  Analyst.  
+ Results  ●  Launched  a  mobile  app  in  three  international  markets,  increasing  the  retention  rate  by  15%  and  conversion  by  10%;  
+●  Implemented  microservices  for  deep  linking  and  domain  delivery,  reducing  CRM  managers’  workload  by  7%;  
+●  Expanded  the  development  department  from  two  to  five  teams,  boosting  productivity  by  40%;  
+●  Reduced  the  time  between  releases  by  20%  through  automation  and  process  optimization.  
+Responsibilities:  
+●  Led  full-cycle  mobile  application  development  projects  using  Scrum  and  Kanban  methodologies,  including  scope,  timeline,  resource  planning,  and  risk  management;  
+●  Organized  and  controlled  team  communications,  removed  blockers,  managed  task  dependencies,  and  facilitated  quarterly  cross-departmental  planning;  
+●  Gathered,  analyzed,  and  decomposed  business  requirements,  supervised  the  creation  of  technical  specifications,  conducted  reviews,  and  maintained  up-to-date  documentation  in  Jira  and  Confluence;  
+●  Monitored  progress,  analyzed  process  metrics  (Cycle  Time,  Velocity),  and  implemented  changes  to  improve  productivity  and  process  efficiency;  
+●  Communicated  with  stakeholders,  contributed  to  strategy  development,  and  optimized  business  processes.  
+ 
+
+ 
+ Agile  Coach,  МТС  |  
+01/2022
+ 
+–
+  
+06/2023
+ 
+ MTS-Cash  division  in  the  E-com  business  and  MTS  franchise  in  the  Telecom  business   ●  Within  a  year,  I  advanced  from  Scrum  Master  to  Agile  Coach,  taking  on  a  broader  scope  of  responsibilities ;  
+●  Improved  the  effectiveness  of  quarterly  plans  by  15%  by  enhancing  communication  with  adjacent  streams;  
+●  Delivered  on  the  Digital  Transformation  Oﬃce’s  mandate  by  transitioning  from  LeSS  to  SAFe  and  launching  a  new  department  (5  cross-functional  teams  +  2  service  team.  
+Delivery  Manager,  Яндекс.Деньги  |  
+03/2021
+ 
+–
+  
+01/2022
+ 
+ Fintech,  payments   ●  Reduced  operational  losses  by  optimizing  communications  with  stakeholders  (approximately  90  people);  
+●  Organized  the  launch  of  a  project  to  implement  the  organization's  metadata  catalog;  
+●  Increased  the  quarterly  plan  fulﬁllment  rate  to  100%  of  business  expectations.  
+Project  Manager,  Itis  Team  |  
+03/2020
+ 
+–
+  
+03/2021
+ 
+ Outsourcing  in  the  ﬁeld  of  mobile  and  web  development.   ●  Increased  project  margins  from  12%  to  34%  by  implementing  automation  and  codebase  reuse;  
+●  Contributed  to  tripling  the  company's  revenue  by  raising  the  average  project  fee;  
+●  Expanded  the  team  from  5  to  18  members  and  ensured  uninterrupted  project  operations.  
+Project  Manager,  Renewal  Studio  |  
+03/2019
+ 
+–
+  
+03/2020
+ 
+ Outsourcing  in  mobile  and  web  development   ●  Transitioned  from  Android  Developer  to  Project  Manager;  
+●  Reached  break-even  within  2  months  through  effective  organization;  
+●  Formed  3  project  teams  and  transitioned  them  to  Scrum.  
+  Образование  и  повышение  квалификации   
+2023 
+SAFe  5  Release  Train  Engineer,  ICAgile  -  Agile  Coaching  
+2022  ICAgile  -  Agile  Team  Facilitation;  ICAgile  -  Agile  Fundamentals;  Scrum.org  -  PSM  I  
+2021  Kanban  System  Improvement  
+2020  Kanban  System  Design  
+2017  –  2024  
+Innovation  management  programming  products  Peter  the  Great  St.Petersburg  Polytechnic  University  
+Skills  Agile  |  Scrum|  Kanban  |  SDLC  |  BPMN  
+ 
+
+ Requirements  Specification  |  Risk  Management  |  Project  Management  |  Change  Management  |  UML  |  PMBoK  |  
+Кандидат P19
+|
+Кандидат P19
+ English  — B1  Russian  — C2  
+Tools  Jira  |  Power  BI  |  Confluence  |  MS  Project  |  Git  |  Miro  |  Diagrams  |  SQL  |  Grafana|  Youtrack
