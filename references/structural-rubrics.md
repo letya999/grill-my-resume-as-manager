@@ -1,38 +1,38 @@
-# Структурные рубрики
+# Structural rubrics
 
-Две допустимые. Выбрать по context; **указать** какую применили.
+Two acceptable structures. Pick using context; state which rubric you applied.
 
-## Рубрика T — Chat thirds (default, HH PM)
-На каждый недавний role-блок примерно:
-1. **~⅓ achievements** (3–5 key, XYZ)  
-2. **~⅓ duties** (только keyword-bearing, не JD-paste)  
-3. **~⅓ tools / methods / tech**  
+## Rubric T — Chat thirds (default for HH PM market)
+For each recent role block, aim for roughly:
+1. **~1/3 achievements** (3–5 key, XYZ)
+2. **~1/3 duties** (only if they encode keywords HR/ATS need; not job-description paste)
+3. **~1/3 tools / methods / technologies** (tag cloud grounded in that job)
 
-Header: имя + target role + contacts.  
-Skills: tools/domain на языке вакансий (если есть pool).  
-Длина: ~2 стр. (`hh-ats-norms.md`).
+Header: name + target role + contacts.
+Skills: tools and domain terms in vacancy language when pool exists; else market-typical stack for claimed family.
+Length: ~2 pages (see `hh-ats-norms.md`).
 
-**Когда T:** default MODE 1–3 для RU/HH / CIS.
+**When to use T:** default MODE 1–3 for RU/HH / CIS PM search.
 
-## Рубрика S — Strict evidence (senior / enterprise)
-- Achievements доминируют на каждом past role.  
-- Duties только на **последнем** (3–4 строки).  
-- Старые роли: company + scope + 3–4 XYZ.  
-- About: годы, домены, hard signals, headline outcomes — без soft filler.
+## Rubric S — Strict evidence (senior / enterprise polish)
+- Achievements dominate every past role.
+- Duties only on **most recent** role (3–4 lines).
+- Older roles: company + scope line + 3–4 XYZ only.
+- About-me: years, domains, hard signals, headline outcomes — no soft filler.
 
-**Когда S:** крупный enterprise/банк/жёсткий senior bar или явный запрос «жёсткий senior standard».
+**When to use S:** user targets large enterprise / bank / strict senior bar, or asks for "жёсткий senior standard".
 
-## Общие checks
-| Check | Pass |
-|-------|------|
-| Header | роль читается в первых строках |
-| Chronology | путь читаем; прыжки объяснены |
-| Skills | tools/methods, не platitudes |
-| Grammar | нет кластера опечаток в header/experience |
-| Style vs pool | enterprise ≠ slang (если pool) |
-| Multi-role soup | одно coherent family |
+## Shared checks (both rubrics)
+| Check | Pass signal |
+|-------|-------------|
+| Header | role readable in first lines |
+| Chronology | readable path; jumps explained |
+| Skills | tools/methods, not platitudes |
+| Grammar | no agreement/typo clusters in header/experience |
+| Style vs pool | enterprise pool ≠ slangy tone (when pool present) |
+| Multi-role soup | single coherent family (see `role-families.md`) |
 
-## Directions
-- «Сжать duties на старых ролях; место под XYZ.»  
-- «Добавить tools/methods third (Rubric T).»  
-- Не вставлять переписанную секцию.
+## Direction language
+- "Collapse duties on older roles; free space for XYZ."
+- "Add tools/methods third for keyword coverage (Rubric T)."
+- Never paste a rewritten section.

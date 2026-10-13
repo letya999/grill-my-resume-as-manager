@@ -1,41 +1,42 @@
-# Нормы HH / ATS / рекрутера (RU PM + общее)
+# HH / ATS / recruiter norms (RU PM market + general)
 
-Операционные нормы из PM job-search чатов. Чеклист диагностики, не закон. **Disputed** — где сообщество расходится.
+Operational norms from long-running Project Manager job-search chats. Use as diagnostic checklist, not universal law. Mark items **disputed** when community disagrees.
 
-## Первые 10–30 секунд
-- HR редко читает дальше, если роль/грейд/домен неясны на первом экране.  
-- Графика/колонки ломают ATS и HH-export.  
-- PDF с текстовым слоем предпочтительнее; Google Docs часто режут firewall’ы.
+## First filter (10–30 seconds)
+- HR rarely reads past a skim if role, grade, and domain are unclear in the first screen.
+- Custom graphics/columns increase parse failure risk in ATS and HH export.
+- Prefer PDF with text layer for attachments; Google Docs links often blocked behind corp firewalls.
 
-## Keywords
-- Early screen ≈ **keyword + title + years + domain**.  
-- Skills = **tools / methods / domain**, не «управление проектами».  
-- Multi-CV под сегменты — норма рынка. Смена title на 1–2 последних ролях под язык JD — diagnose mismatch, не выдумывать employment.  
-- «Де факто выполнял X» ослабляет grade signal.
+## Keywords and match
+- Early screen is largely **keyword + title + years + domain** fit.
+- Skills block should be **tools / methods / domain terms**, not "project management" platitudes.
+- One master CV for all segments underperforms; market practice is **multiple targeted CVs** (often title + keyword set per segment). Changing title on last 1–2 roles to match JD language is common practice — diagnose mismatch, do not fabricate employment history.
+- "Де факто / в том числе выполнял обязанности X" weakens grade signal.
 
-## Title / role
-- Один coherent title (PM **или** Delivery **или** Tech PM).  
-- Last job title семантически в family target JD.  
-- Sales history без PM framing → «ещё не PM».
+## Title and role clarity
+- Desired title must be singular and coherent (PM **or** Delivery **or** Tech PM — not PM+admin+sales soup).
+- Last job title should **semantically match** the target JD family; large gap → keyword miss and human distrust.
+- Sales / account manager history without PM framing reads as "not a PM yet".
 
-## Tenure
-- &lt;6 мес без объяснения — red flag.  
-- Parallel freelance + full-time — риск moonlighting.  
-- Хронология: не ломать порядок «релевантным» без narrative.
+## Tenure and structure
+- Sub-6-month stints without explanation are red flags; diagnose; direction: collapse project work or explain.
+- Parallel freelance + full-time can signal "will moonlights" risk — surface it.
+- Chronology integrity: do not promote "relevant only" out of order without a readable narrative.
 
-## Длина
-- ~2 стр. (до 2.5–3 при 15+ годах dense senior).  
-- &gt;3 — structural fail для HH skim.  
-- US one-pager — другой рынок (только если context western).
+## Length
+- Default target **~2 pages** (up to ~2.5–3 only with 15+ years and dense senior signal).
+- Beyond ~3 pages: treat as structural fail for HH skim culture.
+- US-style one-page more selling CV is a different market — only apply if context is western.
 
-## About / meta
-- Хобби обычно игнор; оставить только work-relevant mechanism.  
-- Contacts: phone + email + Telegram.  
-- **ЗП на CV** — community: убрать (режет сверху и снизу).  
-- **Фото** — **disputed**; не догма.
+## About / contacts / meta
+- About-me hobbies and sports usually ignored; keep only if it proves a work-relevant skill with mechanism.
+- Contacts: phone + email + Telegram enough; link farms add noise.
+- **Salary on CV** — community advice: remove (filters high and low incorrectly). Diagnostic: flag if present.
+- **Photo** — **disputed**: some say photo helps pack skim, others "remove/replace if unprofessional". Flag only quality/positioning issues; do not invent a universal rule.
 
-## Confidential
-«Confidential» без domain hint убивает конверсию. Direction: юрлицо / честный sector label + stack.
+## Confidential projects
+- "Confidential" with zero domain hint tanks conversion. Direction: legal entity or invented-but-honest sector label + stack.
 
-## Вне scope
-Cover letters, networking ops, гарантии interview rate.
+## What this skill does *not* own
+- Writing cover letters, networking scripts, or multi-week job-search ops plans (unless user asks after grill and stays in diagnostic scope).
+- Guaranteeing interview rates.

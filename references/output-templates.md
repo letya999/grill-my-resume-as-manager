@@ -1,40 +1,41 @@
-# Шаблоны output
+# Output templates
 
-Язык отчёта = язык резюме.
+Language of the report = language of the resume (RU resume → RU report).
 
-## Общие правила
-- Вердикт с **дословной цитатой**.  
-- **Direction** = вид правки. **Нет** rewritten bullets / sample «как лучше».  
-- No sugar. TL;DR первым.
+## Shared rules
+- Every verdict has a **verbatim quote** (resume and/or vacancy).
+- **Direction** lines allowed: what to change (drop / quantify / disambiguate role). **No rewritten bullets**, no sample "better text".
+- No sugar: ban "в целом неплохо", "есть потенциал", "можно усилить" as empty praise.
+- TL;DR first; full sections after.
 
 ---
 
-## MODE 1 — Solo
+## MODE 1 — Solo grill
 
 ```markdown
 # GRILL REPORT — Solo
 
 ## TL;DR
 - Overall: XX% (band)
-- Reads as: [family + grade]
-- Main break: [одна фраза]
+- Reads as: [role family + grade]
+- Main break: [one phrase]
 - Ready to mass-apply: yes / no
 
 ## 10-SECOND READ
-[4–6 предложений]
-READS / NOT READS:
+[4–6 sentences connected prose: image, grade, domain, what hooks/repels]
+READS / NOT READS checklist:
 1. Grade in first lines: ...
 2. Domain visible: ...
 3. First recent bullet impact: ...
-4. Scope: ...
-5. Tools/methods: ...
+4. Scope (team/budget/MAU/ARR): ...
+5. Methods/tools visible: ...
 
 ## ROLE FAMILY
 Claimed vs supported: ... quotes ...
 
 ## GRADE INFLATION
-- Claimed years/title: ...
-- Years in supported family: ...
+- Claimed years / title: ...
+- Years inside supported family: ...
 - Inflation: none / mild / severe — quotes
 
 ## ANTI-PERSONAS
@@ -47,11 +48,11 @@ Claimed vs supported: ... quotes ...
 
 ## EVIDENCE AUDIT (FAIL/WEAK/noise only)
 - L#: "..." — type — XYZ — direction: ...
-PASS: N of M
-Attribution flags: [L#]
+PASS bullets: N of M
+Attribution flags: [list L# where metric may not be personal]
 
 ## STRUCTURE ([Rubric T|S])
-- Export/OCR: clean / broken / empty bullets
+- Export/OCR quality: clean / broken spacing / empty bullets — ...
 - ...
 
 ## SYSTEMIC ISSUES
@@ -59,7 +60,7 @@ Attribution flags: [L#]
 
 ## SCORE
 Evidence 0.xx | RoleClarity 0.xx | AntiPersona 0.xx | 10s 0.xx | KeywordFit 0.xx | Structure 0.xx
-Weighted sum → Overall XX%
+Show weighted sum → Overall XX%
 
 ## VERDICT
 - Ready: yes/no
@@ -69,22 +70,22 @@ Weighted sum → Overall XX%
 
 ---
 
-## MODE 2 — Context
+## MODE 2 — Context grill
 
-MODE 1 плюс:
+Same as MODE 1 plus:
 
 ```markdown
 ## CONTEXT
 Region | Role/grade | Segment | Targets | Constraints | Motivation
 
 ## POSITIONING VS CONTEXT
-- Match / drift «куда хочет» vs «что продаёт CV»
+- Match / drift between "where they want" and "what CV sells"
 - Directions: ...
 ```
 
 ---
 
-## MODE 3 — Pool
+## MODE 3 — Pool grill
 
 ```markdown
 # GRILL REPORT — Pool
@@ -94,23 +95,21 @@ Region | Role/grade | Segment | Targets | Constraints | Motivation
 - Worst archetype: [name] — XX%
 - Main CV break: ...
 - Main context↔pool break: ...
-- Apply / retarget: binary
-- [thin pool note if any]
+- Apply / retarget search: binary
 
 ## CONTEXT
 ...
 
-## ARCHETYPES (N of M)
+## ARCHETYPES (N of M vacancies)
 - **A: name** — #ids (count). Profile 1–2 sentences.
 [Outliers: #ids]
 
 ## SCORING
 - A: XX% = 0.aa (Core) + 0.bb (Ach) + 0.cc (Dom) + 0.dd (Lang)
 - B: ...
-- Global axes + Overall%
-
+- Global axes (shared) with weighted Overall%
 ## GRADE INFLATION
-...
+- ...
 
 ## 10-SECOND READ
 ...
@@ -128,14 +127,14 @@ Region | Role/grade | Segment | Targets | Constraints | Motivation
 ...
 
 ## POOL SANITY
-...
+Does the pool match context? Drift explicit.
 
 ## VERDICT
 - Fit: archetype + %
-- No-fit: + killer
-- Decision: apply / retarget
-- Top directions (max 5)
+- No-fit: archetype + % + killer factor
+- Decision: apply to [archetype] / retarget search to [where]
+- Top directions (max 5, no wording)
 ```
 
-Таблицы semantic core — только по запросу:  
-`Термин | Канон | Частота | Вес | В резюме`
+Semantic core tables: omit from main report; on request only:
+`Term | Canon | Freq | Weight | In resume`
