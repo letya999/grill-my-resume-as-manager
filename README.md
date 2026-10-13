@@ -1,45 +1,55 @@
+<p align="center">
+  <strong>English</strong> · <a href="README.ru.md">Русский</a>
+</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License: MIT"></a>
+  <a href="https://skills.sh/letya999/grill-my-resume-as-manager"><img src="https://skills.sh/b/letya999/grill-my-resume-as-manager" alt="skills.sh"></a>
+</p>
 # Grill My Resume as Manager
 
-Open Skill: **жёсткая прожарка** резюме Project / Delivery / Tech / Product менеджера.
+Open skill for a **hard grill** of Project / Delivery / Tech / Product manager resumes.
 
-Не ghostwriter. Скоринг evidence (XYZ), anti-personas, 10-секундный skim, опционально match к пулу вакансий. **Directions** без готовых буллетов.
+Not a ghostwriter. The agent scores evidence (XYZ), flags manager anti-personas (admin, proxy, ritual agile, …), checks 10-second recruiter read, and optionally matches a vacancy pool. It gives **fix directions** without writing replacement bullets.
 
-## Режимы
+## Modes
 
-| Mode | Вход | Результат |
-|------|------|-----------|
-| 0 Intake | битый input | что исправить во входе |
-| 1 Solo | резюме | полный grill |
-| 2 Context | + «куда иду» | + positioning |
-| 3 Pool | + 5–20 JD | + типажи + Match% |
+| Mode | You provide | You get |
+|------|-------------|---------|
+| **1 Solo** | resume | full grill + score + directions |
+| **2 Context** | resume + “where I’m going” narrative | + positioning vs target |
+| **3 Pool** | resume + context + 5–20 full JD texts | + archetypes + per-cluster match % |
 
-## Установка
+## Install
 
 ```bash
-# Open Skills / Gemini CLI
+npx skills add letya999/grill-my-resume-as-manager
+```
+
+```bash
+# Gemini CLI / Open Skills style
 gemini skills install ./grill-my-resume-as-manager.skill
 ```
 
-Или укажи агенту `SKILL.md`:
+Or point Claude Code / Cursor / Grok at `SKILL.md`:
 
-> Используй grill-my-resume-as-manager на examples/resume.md
+> Use grill-my-resume-as-manager on examples/resume.pdf (solo grill)
 
-## Без skill-файлов
+## Example data
 
-Один промпт с той же методологией: **`methodology-prompt.md`** — вставь в любой чат + резюме.
+`examples/` — sample context, resume PDF, and 12 vacancy texts for MODE 3 drills.
 
-## Содержимое
+## Package layout
 
-- `SKILL.md` + `references/` — skill  
-- `methodology-prompt.md` — one-shot промпт  
-- `examples/` — **синтетические** demo-данные  
-- `fixtures/resumes/` — анонимизированные тексты (P01…P20) для локальных тестов  
+```
+grill-my-resume-as-manager/
+  SKILL.md
+  references/     # load on demand (see SKILL map)
+  examples/       # fixtures, not required at runtime
+  package.json
+  LICENSE
+```
 
-## Философия
+## Philosophy
 
-Evidence rule: нет измеримого результата → процесс, не достижение.  
-Рынок не покупает harness/admin PM; скилл называет такие утечки цитатами.
-
-## Лицензия
-
-MIT
+Evidence rule: no measurable result → process, not achievement. Market stops buying harness/admin PMs; the skill names those leaks with quotes.
