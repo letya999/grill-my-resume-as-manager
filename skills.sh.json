@@ -1,4 +1,13 @@
 {
   "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
-  "skills": ["grill-my-resume-as-manager"]
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Career",
+      "description": "Hard grill of a manager resume: evidence, flags, recruiter read.",
+      "skills": [
+        "grill-my-resume-as-manager"
+      ]
+    }
+  ]
 }
